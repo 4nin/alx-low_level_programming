@@ -1,3 +1,4 @@
+#!/bin/bash
 #include <stdio.h>
 /**
  *main -Entry point
@@ -6,6 +7,6 @@
  */
 int main(void)
 {
- puts("\"programming is like building a multlingual puzzle");
- return (0);
+puts("\"programming is like building a multlingual puzzle");
+return (0);
 }
